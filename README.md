@@ -1,108 +1,47 @@
-# flutter-library
+# Flutter Packages & Plugins
 
-https://pub.dev/
+- We can search by [pub.dev](https://pub.dev/)
+- Packages are not OS platform related and made dart.
+- Plugins are OS platform related.
 
-adaptive_dialog
-Liked on: Apr 1, 2020
+## mBaas
+- [Firebase](https://firebase.google.com/docs/flutter/setup) A comprehensive app development platform.
 
-animations
-Liked on: Mar 12, 2020
+## Web
+- [webview_flutter](https://pub.dev/packages/webview_flutter) A Flutter plugin that provides a WebView widget.
+- [url_launcher](https://pub.dev/packages/url_launcher) A Flutter plugin for launching a URL in the mobile platform. Supports iOS and Android.
+- [launch_review](https://pub.dev/packages/launch_review) A Flutter plugin to assist in leaving user reviews/ratings in Google Play Store and Apple App Store.
 
-edge_alert
-Liked on: Mar 12, 2020
+## UI
+- [video_player](https://pub.dev/packages/video_player) A Flutter plugin for iOS, Android and Web for playing back video on a Widget surface.
+- [image_picker](https://pub.dev/packages/image_picker) A Flutter plugin for iOS and Android for picking images from the image library, and taking new pictures with the camera.
+- [qr_mobile_vision](https://pub.dev/packages/qr_mobile_vision) Reading QR codes and other barcodes using Firebase's Mobile Vision API.
+- [tutorial_coach_mark](https://pub.dev/packages/tutorial_coach_mark) Guide that helps you to present your app and its features in a beautiful, simple and customizable way.
 
-encrypted_shared_preferences
-Liked on: Mar 7, 2020
+## HTTP Client
+- [http](https://pub.dev/packages/http) A composable, Future-based library for making HTTP requests. 
 
-firebase_core
-Liked on: Mar 4, 2020
+## gRPC
 
-firebase_crashlytics
-Liked on: Mar 3, 2020
+## GraphQL
 
-flappy_search_bar
-Liked on: Apr 6, 2020
+## Json
+- [json_serializable](https://pub.dev/packages/json_serializable) Provides Dart Build System builders for handling JSON.
 
-floating_search_bar
-Liked on: Apr 6, 2020
+## Xml
 
-flutter_asset_generator
-Liked on: May 1, 2020
+## Dependency Injection
 
-flutter_crashlytics
-Liked on: Mar 4, 2020
+## Reactive Extensions
+- [rxdart](https://pub.dev/packages/rxdart) RxDart adds additional capabilities to Dart Streams and StreamControllers.
 
-flutter_icons
-Liked on: Mar 7, 2020
+## Date
 
-flutter_launcher_icons
-Liked on: Mar 5, 2020
+## Log
+- [logger](https://pub.dev/packages/logger) Small, easy to use and extensible logger which prints beautiful logs.
 
-flutter_mobile_vision
-Liked on: Feb 21, 2020
+## Test
 
-flutter_native_splash
-Liked on: Mar 5, 2020
+## InteliJ Plugin
 
-flutter_qr_bar_scanner
-Liked on: Feb 21, 2020
-
-flutter_share
-Liked on: Mar 5, 2020
-
-flutter_sticky_header
-Liked on: Apr 7, 2020
-
-freezed
-Liked on: Apr 21, 2020
-
-keyboard_avoider
-Liked on: Mar 2, 2020
-
-launch_review
-Liked on: Mar 5, 2020
-
-loading_animations
-Liked on: Apr 8, 2020
-
-pedantic_mono
-Liked on: Apr 8, 2020
-
-permission_handler
-Liked on: Feb 24, 2020
-
-platform_alert_dialog
-Liked on: Mar 12, 2020
-
-qr_flutter
-Liked on: Mar 4, 2020
-
-qr_mobile_vision
-Liked on: Feb 21, 2020
-
-r_flutter
-Liked on: Apr 24, 2020
-
-search_widget
-Liked on: Apr 7, 2020
-
-shared_preferences
-Liked on: Mar 1, 2020
-
-simple_logger
-Liked on: Apr 24, 2020
-
-status_alert
-Liked on: Mar 12, 2020
-
-sweet_alert_dialogs
-Liked on: Mar 12, 2020
-
-theme_provider
-Liked on: Apr 26, 2020
-
-url_launcher
-Liked on: Mar 5, 2020
-
-webview_flutter
-Liked on: Mar 2, 2020
+## VSCode Plugin
