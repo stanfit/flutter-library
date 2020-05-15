@@ -7,6 +7,9 @@
 ## mBaas
 - [Firebase](https://firebase.google.com/docs/flutter/setup) A comprehensive app development platform.
 
+## Architecture
+- [state_notifier](https://pub.dev/packages/state_notifier) This repository is a set of packages that reimplements ValueNotifier outside of Flutter.
+
 ## Web
 - [webview_flutter](https://pub.dev/packages/webview_flutter) A Flutter plugin that provides a WebView widget.
 - [url_launcher](https://pub.dev/packages/url_launcher) A Flutter plugin for launching a URL in the mobile platform. Supports iOS and Android.
