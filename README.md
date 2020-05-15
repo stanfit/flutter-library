@@ -40,6 +40,9 @@
 ## Log
 - [logger](https://pub.dev/packages/logger) Small, easy to use and extensible logger which prints beautiful logs.
 
+## Generate
+- [freezed](https://pub.dev/packages/freezed) Code generation for immutable classes that has a simple syntax/API without compromising on the features.
+
 ## Test
 
 ## InteliJ Plugin
