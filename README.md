@@ -18,6 +18,7 @@
 ## UI
 - [video_player](https://pub.dev/packages/video_player) A Flutter plugin for iOS, Android and Web for playing back video on a Widget surface.
 - [image_picker](https://pub.dev/packages/image_picker) A Flutter plugin for iOS and Android for picking images from the image library, and taking new pictures with the camera.
+- [extended_image](https://pub.dev/packages/extended_image) Official extension image, support placeholder(loading)/ failed state, cache network, zoom/pan, photo view, slide out page, editor(crop,rotate,flip), painting etc.
 - [qr_mobile_vision](https://pub.dev/packages/qr_mobile_vision) Reading QR codes and other barcodes using Firebase's Mobile Vision API.
 - [tutorial_coach_mark](https://pub.dev/packages/tutorial_coach_mark) Guide that helps you to present your app and its features in a beautiful, simple and customizable way.
 
