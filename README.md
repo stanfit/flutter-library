@@ -91,5 +91,6 @@
 - [test](https://pub.dev/packages/test) A library for writing unit tests in Dart.
 
 ## InteliJ Plugin
+- [Flutter Pub Version Checker](https://plugins.jetbrains.com/plugin/12400-flutter-pub-version-checker) This IntelliJ plugin inspects your pubspec.yaml file to find if you're using the latest package versions from the pub.dev
 
 ## VSCode Plugin
